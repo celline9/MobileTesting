@@ -19,8 +19,6 @@ class MainActivity : AppCompatActivity() {
             insets
         }
     }
-//    Testsadfadsfdfsadfsadsf
+//    Test
 //    TEST TWO
-    //brenda branch
-    // brenda branch node 2
 }
